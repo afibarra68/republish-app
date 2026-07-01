@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "republish": {
+      "command": "node",
+      "args": ["apps/mcp-server/dist/index.js"],
+      "env": {
+        "PUBLISH_API_URL": "http://localhost:3000/api"
+      }
+    }
+  }
+}

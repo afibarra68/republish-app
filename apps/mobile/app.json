@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Republish",
+    "slug": "republish",
+    "version": "0.1.0",
+    "scheme": "republish",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "backgroundColor": "#ffffff" } },
+    "plugins": ["expo-router"]
+  }
+}
